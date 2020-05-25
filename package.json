@@ -1,10 +1,10 @@
 {
-  "name": "eosjs-window-message-signature-provider-interface",
-  "version": "0.1.3",
-  "description": "A Signature Provider Interface for communicating with an authenticator over the Window Messaging API using the EOSIO Auth Transport Protocol.",
+  "name": "arisen-window-message-signature-provider-interface",
+  "version": "0.1.1",
+  "description": "A Signature Provider Interface for communicating with an authenticator over the Window Messaging API using the ARISEN Auth Transport Protocol.",
   "author": {
-    "name": "block.one",
-    "url": "https://block.one"
+    "name": "arisen",
+    "url": "https://arisen.network"
   },
   "contributors": [
     "Ryan Wiesjahn",
@@ -12,22 +12,22 @@
     "Tara Tritt"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/EOSIO/eosjs-window-message-signature-provider-interface#readme",
+  "homepage": "https://github.com/ARISENIO/arisenjs-window-message-signature-provider-interface#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EOSIO/eosjs-window-message-signature-provider-interface.git"
+    "url": "git+https://github.com/ARISENIO/arisenjs-window-message-signature-provider-interface.git"
   },
   "bugs": {
-    "url": "https://github.com/EOSIO/eosjs-window-message-signature-provider-interface/issues"
+    "url": "https://github.com/ARISENIO/arisenjs-window-message-signature-provider-interface/issues"
   },
   "keywords": [
     "signature",
     "provider",
     "interface",
     "bridge",
-    "eos",
-    "eosio",
-    "eosjs"
+    "rix",
+    "arisen",
+    "arisenjs"
   ],
   "main": "dist/index.js",
   "scripts": {
@@ -38,7 +38,7 @@
     "prepublish": "yarn clean-build"
   },
   "dependencies": {
-    "eosjs-signature-provider-interface": "0.1.2"
+    "arisen-signature-provider-interface": "0.0.1"
   },
   "devDependencies": {
     "@blockone/tslint-config-blockone": "^4.0.1",
