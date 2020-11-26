@@ -2,15 +2,9 @@
 
 A [Signature Provider Interface](https://github.com/ARISENIO/arisen-signature-provider-interface) for communicating with an authenticator over the [Window Messaging API](https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage) using the [ARISEN Authentication Transport Protocol Specification](https://github.com/ARISENIO/arisen-authentication-transport-protocol-spec).
 
-![ARISEN Labs](https://img.shields.io/badge/ARISEN-Labs-5cb3ff.svg)
-
-## About ARISEN Labs
-
-ARISEN Labs repositories are experimental.  Developers in the community are encouraged to use ARISEN Labs repositories as the basis for code and concepts to incorporate into their applications. Community members are also welcome to contribute and further develop these repositories. Since these repositories are not supported by Arisen, we may not provide responses to issue reports, pull requests, updates to functionality, or other requests from the community, and we encourage the community to take responsibility for these.
-
 ## Overview
 
-When plugged into `ARISEN`, this signature provider enables desktop web applications to route signing requests to a browser extension authenticator. Full instructions for `ARISEN` can be found [here](https://github.com/ARISENIO/ARISEN).
+When plugged into `ARISENJS`, this signature provider enables desktop web applications to route signing requests to a browser extension authenticator. Full instructions for `ARISEN` can be found [here](https://github.com/arisenio/arisenjsv1).
 
 ## Installation
 

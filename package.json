@@ -1,16 +1,11 @@
 {
   "name": "arisen-window-message-signature-provider-interface",
-  "version": "0.1.1",
-  "description": "A Signature Provider Interface for communicating with an authenticator over the Window Messaging API using the ARISEN Auth Transport Protocol.",
+  "version": "1.0.0",
+  "description": "Allows desktop web applications to route signing requests to a browser extension authenticator",
   "author": {
     "name": "arisen",
     "url": "https://arisen.network"
   },
-  "contributors": [
-    "Ryan Wiesjahn",
-    "Lucas Fonseca",
-    "Tara Tritt"
-  ],
   "license": "MIT",
   "homepage": "https://github.com/ARISENIO/arisenjs-window-message-signature-provider-interface#readme",
   "repository": {
