@@ -1,9 +1,9 @@
 {
-  "name": "arisen-window-message-signature-provider-interface",
+  "name": "@arisensdk/window-message-signature-provider-interface",
   "version": "1.0.0",
   "description": "Allows desktop web applications to route signing requests to a browser extension authenticator",
   "author": {
-    "name": "arisen",
+    "name": "PeepsLabs <peepslabs@gmail.com>",
     "url": "https://arisen.network"
   },
   "license": "MIT",
