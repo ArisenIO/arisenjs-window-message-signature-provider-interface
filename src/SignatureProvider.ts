@@ -5,7 +5,7 @@ import {
   SignatureProviderInterfaceParams,
   SignatureProviderRequestEnvelope,
   unpackEnvelope,
-} from 'arisen-signature-provider-interface'
+} from '@arisensdk/signature-provider-interface'
 
 import { ExpiringLocalStorageProvider } from './ExpiringLocalStorageProvider'
 
